@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:id="@+id/fast_link_item_loading_level2" android:drawable="@drawable/fast_link_item_loading_bg" />
+	<item android:id="@+id/fast_link_item_loading_level1" android:drawable="@drawable/loading"
+		android:top="24dp" android:left="24dp" android:right="24dp" android:bottom="24dp" />
+</layer-list>

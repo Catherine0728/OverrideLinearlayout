@@ -1,0 +1,23 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    
+    
+    <dimen name="fast_link_item_width">200dp</dimen>
+    <dimen name="fast_link_item_height">200dp</dimen>
+    <dimen name="fast_link_item_line_space">10dp</dimen>
+    
+    <dimen name="fast_link_item_inner_height">61dp</dimen>
+    <dimen name="fast_link_item_snapshot_corner">5dp</dimen>
+    <dimen name="fast_link_item_title_padding">6dp</dimen>
+    <dimen name="fast_link_item_title_padding_bottom">5dp</dimen>
+    <dimen name="recent_snapshot_item_width">68dp</dimen>
+    <dimen name="recent_snapshot_item_height">68dp</dimen>
+    <dimen name="snapshot_fontmargin">2dp</dimen>
+    <dimen name="snapshot_text_Y">9dp</dimen>
+    
+    <dimen name="fast_link_padding_top">3dp</dimen>
+
+</resources>

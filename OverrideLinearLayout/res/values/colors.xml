@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#FFFFFFFF</color>
+
+    <drawable name="transparent">#00000000</drawable>
+
+    <color name="halftrans">#99000000</color>
+    <color name="linkhightcolor">#FFFFFF</color>
+    <color name="foldtitlecolor">#808033</color>
+    <color name="hint_text_color">#ff999999</color>
+    <color name="copyrightcolor">#818fa1</color>
+    <color name="black">#FF000000</color>
+    <color name="alertdialog_message_text">#3e5162</color>
+    <color name="center_pop_menu_word_disable_color">#9aa5b2</color>
+    <color name="night_center_pop_menu_word_disable_color">#555555</color>
+    <color name="bookmark_gray_bg">#f3f6f8</color>
+    <color name="bookmark_white_bg">#feffff</color>
+    <color name="page_property_text">#385261</color>
+	<color name="frequent_visit_item_text_color">#ff1479ad</color>
+    <drawable name="line">#adb3bd</drawable>
+    <drawable name="homewindow_bg">#edf0f2</drawable>
+    <drawable name="multiwin_bg">#cc000000</drawable>
+    <drawable name="favorite_bg">#093667</drawable>
+
+    <color name="bookmark_bg_white_color">#feffff</color>
+    <color name="bg_gray_color">#e8edf1</color>
+    <color name="bg_null_color">#dde4ea</color>
+    <color name="bookmark_bg_text_color">#9ca4ab</color>
+    <color name="frequent_line">#44cdd0d2</color>
+    <color name="home_nolinktext">#95a0b9</color>
+    <color name="home_linktext_split">#b2b8c1</color>
+    <color name="pagepro_title_color">#363636</color>
+
+    <drawable name="foot_line">#d9dee5</drawable>
+
+    <color name="button_text_color">#323232</color>
+    <color name="button_text_color2">#646c74</color>
+    <color name="titlebar_textcolor">#ffeeeeee</color>
+    <color name="night_titlebar_textcolor">#ff8b8b8b</color>
+    <color name="night_dialog_addressbar_edittext_color">#ff191919</color>
+    <color name="url_input_text_color">#ff444444</color>
+    <color name="night_url_input_text_color">#ff191919</color>
+    <color name="option_menu_textcolor">#ffdddddd</color>
+    <color name="night_option_menu_textcolor">#ff8b8b8b</color>
+    <color name="night_home_workspace_bg_color">#ff1d2536</color>
+    <color name="home_content_navigator_name_color">#ff525c66</color>
+    <color name="home_content_navigator_desc_color"> #ffb3b3b3</color>
+    <color name="night_home_content_navigator_name_color">#ff667a91</color>
+    <color name="night_home_content_navigator_desc_color">#ff8e8e8e</color>
+    <color name="night_fastlink_text_color">#ffbabdc3</color>
+    <color name="home_folder_ads_color">#ff88b3d3</color>
+    <color name="night_home_folder_ads_color">#ff667a91</color>
+    <color name="option_menu_item_disable_color">#ff9aa5b2</color>
+    <color name="option_menu_tab_color">#ff9aa5b2</color>
+    <color name="night_option_menu_item_disable_color">#ff555555</color>
+    <color name="user_guide_check_box_text_color">#ff8a8a8a</color>
+
+    <!-- End -->
+
+
+    <!-- 各种bar -->
+    <color name="url_securitybar_text_color">#ff1808</color>
+    <color name="warningbar_text_color">#6d6d6d</color>
+    <color name="warningbar_text_color_link">#1479ad</color>
+    <color name="warningbar_close_text_color">#6d6d6d</color>
+    <color name="high_light_background_color">#87CEEB</color>
+
+    <!-- audio recognize -->
+    <color name="transparent_background">#50000000</color>
+    <color name="transparent_color">#00000000</color>
+    <color name="item_selected">#FFFABE4E</color>
+    <color name="item_unselected">#FFFFFFFF</color>
+    <color name="vocal_item_unselected">#c3e2f9</color>
+    <color name="btn_pressed">#A07f7f7f</color>
+    <color name="btn_unpressed">#FF7f7f7f</color>
+    <color name="geolocation_permissions_prompt_background">#ffdddddd</color>
+
+    <!-- zxing -->
+    <color name="viewfinder_frame">#ff57a0f9</color>
+    <color name="viewfinder_laser">#ff00ff00</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="result_view">#b0000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="transparent">#00000000</color>
+    <color name="status_text">#ffffffff</color>
+    <color name="result_image_border">#ff57A0F9</color>
+    <color name="result_button_text">#ffffffff</color>
+    <color name="result_points">#c000ff00</color>
+    <color name="result_minor_text">#ffc0c0c0</color>
+    <color name="result_text">#ffffffff</color>
+    <color name="result_link">#ff0395E9</color>
+
+    <!-- 分类搜索 -->
+    <color name="search_bar_text_color">#ff566d85</color>
+
+    <!-- voice input -->
+    <color name="voice_input_first_word_color">#ffebebeb</color>
+    <color name="voice_input_second_word_color">#ff898989</color>
+    <color name="voice_input_btn_word_color">#ffc5c5c5</color>
+    <color name="voice_input_btn_pressed_word_color">#ffe8eaed</color>
+    <color name="voice_input_volume_edge">#ff29a9f1</color>
+
+</resources>

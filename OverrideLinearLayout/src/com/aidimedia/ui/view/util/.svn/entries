@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://aidi-pc/svn/CCTV_CBox"
+   revision="49"
+   last-author="heaven"
+   url="https://aidi-pc/svn/CCTV_CBox/trunk/workspace/CCTV_CBox/CCTV_CBox/src/com/aidimedia/ui/view/util"
+   committed-rev="49"
+   kind="dir"
+   committed-date="2013-12-23T05:52:51.546000Z"/>
+<entry
+   name="CommonId.java"
+   checksum="03012719a03680aa26c0cc3098dd3b92"
+   last-author="heaven"
+   text-time="2013-12-23T02:23:02.645000Z"
+   committed-rev="49"
+   kind="file"
+   committed-date="2013-12-23T05:52:51.546000Z"/>
+</wc-entries>
